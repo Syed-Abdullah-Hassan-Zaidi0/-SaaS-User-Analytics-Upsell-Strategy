@@ -1,0 +1,501 @@
+user_id,signup_date,last_login_date,plan_type,monthly_fee,active_days,feature_usage_score,advanced_feature_used,monthly_revenue,upgrade_likelihood,user_segment,signup_month,cluster,anomaly,cluster_label
+U0001,2023-04-13,2024-02-24,Basic,20,317,43,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0002,2023-12-15,2024-01-02,Pro,50,18,18,0,50,0,Low Engagement,2023-12,0,-1,Low Engagement Users
+U0003,2023-09-28,2024-02-18,Basic,20,143,46,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0004,2023-04-17,2024-01-28,Pro,50,286,50,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0005,2023-03-13,2024-02-01,Basic,20,325,32,0,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0006,2023-07-08,2024-01-27,Basic,20,203,29,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0007,2023-01-21,2024-01-20,Basic,20,364,91,1,20,1,High Usage – Upsell Target,2023-01,2,1,High Usage Upsell Candidates
+U0008,2023-04-13,2024-01-24,Pro,50,286,87,1,50,0,Power User,2023-04,2,1,High Usage Upsell Candidates
+U0009,2023-05-02,2024-01-12,Pro,50,255,97,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0010,2023-08-03,2024-02-19,Pro,50,200,65,1,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0011,2023-11-27,2024-02-04,Basic,20,69,46,0,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0012,2023-03-29,2024-02-29,Pro,50,337,25,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0013,2023-04-10,2024-02-02,Basic,20,298,97,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0014,2023-12-26,2024-02-02,Basic,20,38,92,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0015,2023-06-01,2024-02-20,Basic,20,264,97,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0016,2023-05-11,2024-02-12,Pro,50,277,64,1,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0017,2023-05-30,2024-02-06,Basic,20,252,30,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0018,2023-11-05,2024-01-12,Pro,50,68,50,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0019,2023-09-15,2024-01-03,Pro,50,110,94,1,50,0,Power User,2023-09,0,1,Low Engagement Users
+U0020,2023-12-10,2024-01-01,Basic,20,22,59,0,20,0,Low Engagement,2023-12,0,-1,Low Engagement Users
+U0021,2023-10-21,2024-02-02,Basic,20,104,82,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0022,2023-07-11,2024-02-09,Basic,20,213,95,1,20,1,High Usage – Upsell Target,2023-07,0,1,Low Engagement Users
+U0023,2023-10-04,2024-01-10,Basic,20,98,56,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0024,2023-06-10,2024-02-12,Basic,20,247,77,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0025,2023-11-10,2024-02-13,Basic,20,95,69,1,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0026,2023-01-22,2024-01-29,Pro,50,372,27,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0027,2023-09-10,2024-01-13,Basic,20,125,78,1,20,1,High Usage – Upsell Target,2023-09,0,1,Low Engagement Users
+U0028,2023-08-24,2024-01-12,Pro,50,141,94,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0029,2023-12-11,2024-01-31,Pro,50,51,39,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0030,2023-02-18,2024-02-15,Pro,50,362,42,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0031,2023-02-28,2024-01-02,Pro,50,308,64,1,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0032,2023-06-19,2024-02-20,Pro,50,246,74,1,50,0,Power User,2023-06,2,1,High Usage Upsell Candidates
+U0033,2023-07-07,2024-02-19,Basic,20,227,55,0,20,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0034,2023-09-28,2024-02-04,Basic,20,129,37,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0035,2023-07-09,2024-01-23,Pro,50,198,93,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0036,2023-06-24,2024-01-17,Pro,50,207,48,0,50,0,Regular User,2023-06,0,1,Low Engagement Users
+U0037,2023-02-20,2024-01-26,Basic,20,340,94,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0038,2023-12-30,2024-01-08,Basic,20,9,50,0,20,0,Low Engagement,2023-12,0,-1,Low Engagement Users
+U0039,2023-02-24,2024-01-29,Basic,20,339,56,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0040,2023-09-01,2024-01-26,Enterprise,100,147,35,0,100,0,Regular User,2023-09,1,1,Enterprise High-Engagement Users
+U0041,2023-11-16,2024-01-10,Basic,20,55,68,1,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0042,2023-05-11,2024-01-26,Basic,20,260,21,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0043,2023-11-03,2024-02-03,Basic,20,92,56,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0044,2023-05-15,2024-02-20,Basic,20,281,30,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0045,2023-01-21,2024-02-10,Pro,50,385,34,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0046,2023-11-25,2024-01-07,Basic,20,43,82,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0047,2023-06-16,2024-01-04,Pro,50,202,93,1,50,0,Power User,2023-06,0,1,Low Engagement Users
+U0048,2023-10-01,2024-02-27,Basic,20,149,12,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0049,2023-03-30,2024-02-22,Pro,50,329,78,1,50,0,Power User,2023-03,2,1,High Usage Upsell Candidates
+U0050,2023-11-12,2024-02-19,Basic,20,99,18,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0051,2023-01-14,2024-02-14,Basic,20,396,78,1,20,1,High Usage – Upsell Target,2023-01,2,1,High Usage Upsell Candidates
+U0052,2023-08-30,2024-01-11,Pro,50,134,67,1,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0053,2023-09-22,2024-01-29,Enterprise,100,129,75,1,100,0,Power User,2023-09,1,1,Enterprise High-Engagement Users
+U0054,2023-12-12,2024-02-25,Pro,50,75,93,1,50,0,Power User,2023-12,0,1,Low Engagement Users
+U0055,2023-02-22,2024-02-05,Pro,50,348,56,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0056,2023-12-06,2024-01-25,Enterprise,100,50,13,0,100,0,Low Engagement,2023-12,1,1,Enterprise High-Engagement Users
+U0057,2023-04-02,2024-01-21,Basic,20,294,97,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0058,2023-09-21,2024-02-26,Enterprise,100,158,75,1,100,0,Power User,2023-09,1,1,Enterprise High-Engagement Users
+U0059,2023-02-04,2024-02-05,Basic,20,366,14,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0060,2023-07-25,2024-01-10,Pro,50,169,37,0,50,0,Regular User,2023-07,0,1,Low Engagement Users
+U0061,2023-03-22,2024-02-06,Pro,50,321,43,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0062,2023-02-19,2024-01-09,Pro,50,324,57,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0063,2023-12-26,2024-01-24,Basic,20,29,84,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0064,2023-01-02,2024-02-04,Basic,20,398,94,1,20,1,High Usage – Upsell Target,2023-01,2,1,High Usage Upsell Candidates
+U0065,2023-02-23,2024-02-18,Pro,50,360,30,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0066,2023-04-16,2024-02-04,Basic,20,294,51,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0067,2023-09-17,2024-02-17,Enterprise,100,153,72,1,100,0,Power User,2023-09,1,1,Enterprise High-Engagement Users
+U0068,2023-11-06,2024-02-05,Pro,50,91,59,0,50,0,Regular User,2023-11,0,1,Low Engagement Users
+U0069,2023-07-10,2024-01-18,Basic,20,192,14,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0070,2023-08-06,2024-02-18,Pro,50,196,43,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0071,2023-02-13,2024-02-08,Basic,20,360,96,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0072,2023-06-11,2024-02-01,Pro,50,235,63,1,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0073,2023-07-21,2024-01-24,Pro,50,187,79,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0074,2023-09-27,2024-01-23,Basic,20,118,47,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0075,2023-12-17,2024-02-01,Basic,20,46,29,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0076,2023-10-31,2024-02-06,Enterprise,100,98,54,0,100,0,Regular User,2023-10,1,1,Enterprise High-Engagement Users
+U0077,2023-09-28,2024-01-12,Basic,20,106,12,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0078,2023-08-03,2024-02-18,Pro,50,199,52,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0079,2023-09-09,2024-02-24,Basic,20,168,61,1,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0080,2023-07-09,2024-01-13,Basic,20,188,28,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0081,2023-10-23,2024-01-23,Basic,20,92,69,1,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0082,2023-08-01,2024-01-25,Basic,20,177,99,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0083,2023-07-27,2024-02-04,Basic,20,192,27,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0084,2023-08-25,2024-02-10,Pro,50,169,42,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0085,2023-12-04,2024-01-30,Basic,20,57,21,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0086,2023-02-22,2024-01-17,Basic,20,329,53,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0087,2023-10-07,2024-02-18,Basic,20,134,91,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0088,2023-08-05,2024-01-20,Basic,20,168,77,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0089,2023-09-09,2024-02-17,Basic,20,161,32,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0090,2023-07-07,2024-01-25,Pro,50,202,73,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0091,2023-02-10,2024-01-22,Pro,50,346,50,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0092,2023-06-06,2024-01-13,Basic,20,221,94,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0093,2023-01-15,2024-02-28,Pro,50,409,45,0,50,0,Regular User,2023-01,2,-1,High Usage Upsell Candidates
+U0094,2023-10-28,2024-01-19,Pro,50,83,92,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0095,2023-03-06,2024-02-18,Basic,20,349,40,0,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0096,2023-12-11,2024-02-05,Enterprise,100,56,52,0,100,0,Low Engagement,2023-12,1,1,Enterprise High-Engagement Users
+U0097,2023-11-23,2024-01-12,Enterprise,100,50,15,0,100,0,Low Engagement,2023-11,1,1,Enterprise High-Engagement Users
+U0098,2023-01-09,2024-02-10,Basic,20,397,56,0,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0099,2023-12-10,2024-01-19,Basic,20,40,14,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0100,2023-05-09,2024-01-12,Enterprise,100,248,70,1,100,0,Regular User,2023-05,1,1,Enterprise High-Engagement Users
+U0101,2023-05-16,2024-01-09,Pro,50,238,26,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0102,2023-03-04,2024-01-07,Basic,20,309,61,1,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0103,2023-05-19,2024-01-28,Pro,50,254,46,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0104,2023-03-22,2024-01-14,Pro,50,298,97,1,50,0,Power User,2023-03,2,-1,High Usage Upsell Candidates
+U0105,2023-06-12,2024-01-31,Pro,50,233,43,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0106,2023-10-16,2024-02-21,Pro,50,128,77,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0107,2023-09-18,2024-01-19,Pro,50,123,12,0,50,0,Regular User,2023-09,0,-1,Low Engagement Users
+U0108,2023-08-19,2024-02-27,Basic,20,192,94,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0109,2023-02-10,2024-02-16,Basic,20,371,14,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0110,2023-01-28,2024-01-16,Pro,50,353,17,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0111,2023-05-15,2024-02-22,Enterprise,100,283,34,0,100,0,Regular User,2023-05,1,1,Enterprise High-Engagement Users
+U0112,2023-07-20,2024-01-05,Basic,20,169,63,1,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0113,2023-11-24,2024-02-04,Pro,50,72,26,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0114,2023-09-25,2024-01-12,Pro,50,109,94,1,50,0,Power User,2023-09,0,1,Low Engagement Users
+U0115,2023-02-02,2024-01-25,Basic,20,357,74,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0116,2023-02-17,2024-02-21,Pro,50,369,19,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0117,2023-03-03,2024-02-28,Pro,50,362,63,1,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0118,2023-08-04,2024-01-21,Pro,50,170,82,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0119,2023-10-20,2024-02-05,Basic,20,108,65,1,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0120,2023-04-09,2024-02-22,Basic,20,319,50,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0121,2023-06-21,2024-01-23,Pro,50,216,86,1,50,0,Power User,2023-06,2,-1,High Usage Upsell Candidates
+U0122,2023-12-26,2024-01-16,Basic,20,21,77,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0123,2023-08-02,2024-02-26,Basic,20,208,50,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0124,2023-02-04,2024-02-08,Basic,20,369,26,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0125,2023-08-15,2024-02-14,Basic,20,183,97,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0126,2023-04-11,2024-02-22,Basic,20,317,97,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0127,2023-05-11,2024-02-11,Basic,20,276,33,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0128,2023-09-14,2024-02-27,Basic,20,166,12,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0129,2023-01-05,2024-02-08,Basic,20,399,28,0,20,0,Regular User,2023-01,2,-1,High Usage Upsell Candidates
+U0130,2023-08-06,2024-01-14,Pro,50,161,45,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0131,2023-09-12,2024-01-31,Pro,50,141,28,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0132,2023-12-25,2024-02-27,Basic,20,64,57,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0133,2023-10-10,2024-01-05,Pro,50,87,40,0,50,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0134,2023-07-26,2024-02-04,Basic,20,193,88,1,20,1,High Usage – Upsell Target,2023-07,0,1,Low Engagement Users
+U0135,2023-01-15,2024-01-23,Pro,50,373,64,1,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0136,2023-12-12,2024-01-29,Pro,50,48,11,0,50,0,Low Engagement,2023-12,0,-1,Low Engagement Users
+U0137,2023-02-11,2024-02-12,Enterprise,100,366,11,0,100,0,Regular User,2023-02,1,-1,Enterprise High-Engagement Users
+U0138,2023-06-28,2024-01-11,Pro,50,197,76,1,50,0,Power User,2023-06,0,1,Low Engagement Users
+U0139,2023-03-04,2024-01-18,Pro,50,320,89,1,50,0,Power User,2023-03,2,1,High Usage Upsell Candidates
+U0140,2023-12-18,2024-02-16,Pro,50,60,26,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0141,2023-08-19,2024-01-12,Basic,20,146,54,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0142,2023-08-29,2024-01-09,Basic,20,133,46,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0143,2023-02-21,2024-01-10,Pro,50,323,32,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0144,2023-04-06,2024-02-27,Basic,20,327,67,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0145,2023-08-10,2024-02-13,Pro,50,187,66,1,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0146,2023-08-19,2024-01-17,Basic,20,151,50,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0147,2023-08-25,2024-02-07,Basic,20,166,16,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0148,2023-05-23,2024-01-07,Basic,20,229,79,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0149,2023-06-20,2024-02-15,Basic,20,240,34,0,20,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0150,2023-01-29,2024-01-13,Pro,50,349,56,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0151,2023-02-05,2024-02-09,Basic,20,369,43,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0152,2023-01-13,2024-02-11,Basic,20,394,99,1,20,1,High Usage – Upsell Target,2023-01,2,-1,High Usage Upsell Candidates
+U0153,2023-06-09,2024-01-09,Basic,20,214,67,1,20,0,Regular User,2023-06,0,1,Low Engagement Users
+U0154,2023-11-23,2024-02-19,Basic,20,88,76,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0155,2023-07-06,2024-01-27,Pro,50,205,81,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0156,2023-08-31,2024-02-27,Basic,20,180,74,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0157,2023-03-27,2024-01-02,Pro,50,281,41,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0158,2023-10-11,2024-01-05,Pro,50,86,97,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0159,2023-03-07,2024-01-29,Pro,50,328,45,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0160,2023-06-19,2024-02-06,Pro,50,232,23,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0161,2023-02-14,2024-02-07,Pro,50,358,17,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0162,2023-03-03,2024-01-19,Enterprise,100,322,98,1,100,0,Power User,2023-03,1,1,Enterprise High-Engagement Users
+U0163,2023-05-14,2024-01-08,Basic,20,239,43,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0164,2023-10-11,2024-02-17,Basic,20,129,87,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0165,2023-01-28,2024-02-14,Basic,20,382,25,0,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0166,2023-04-18,2024-01-01,Basic,20,258,12,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0167,2023-02-13,2024-01-22,Pro,50,343,61,1,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0168,2023-12-06,2024-02-21,Enterprise,100,77,69,1,100,0,Low Engagement,2023-12,1,1,Enterprise High-Engagement Users
+U0169,2023-10-13,2024-01-17,Basic,20,96,45,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0170,2023-11-27,2024-01-07,Basic,20,41,67,1,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0171,2023-05-08,2024-01-25,Basic,20,262,54,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0172,2023-12-14,2024-02-14,Pro,50,62,42,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0173,2023-08-19,2024-01-04,Pro,50,138,71,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0174,2023-07-09,2024-02-05,Basic,20,211,68,1,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0175,2023-08-13,2024-01-06,Enterprise,100,146,70,1,100,0,Regular User,2023-08,1,1,Enterprise High-Engagement Users
+U0176,2023-10-10,2024-02-29,Pro,50,142,91,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0177,2023-05-01,2024-01-31,Basic,20,275,22,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0178,2023-04-26,2024-01-19,Pro,50,268,60,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0179,2023-08-21,2024-02-13,Pro,50,176,75,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0180,2023-09-16,2024-02-23,Basic,20,160,45,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0181,2023-12-25,2024-02-08,Basic,20,45,74,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0182,2023-07-17,2024-01-27,Basic,20,194,31,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0183,2023-05-17,2024-01-10,Basic,20,238,66,1,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0184,2023-11-14,2024-01-26,Pro,50,73,39,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0185,2023-06-14,2024-01-19,Enterprise,100,219,65,1,100,0,Regular User,2023-06,1,1,Enterprise High-Engagement Users
+U0186,2023-08-13,2024-02-08,Basic,20,179,42,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0187,2023-11-03,2024-01-03,Basic,20,61,49,0,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0188,2023-08-22,2024-02-14,Basic,20,176,63,1,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0189,2023-06-21,2024-01-13,Basic,20,206,84,1,20,1,High Usage – Upsell Target,2023-06,0,1,Low Engagement Users
+U0190,2023-06-01,2024-02-19,Pro,50,263,30,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0191,2023-11-11,2024-01-28,Basic,20,78,64,1,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0192,2023-06-09,2024-02-27,Basic,20,263,93,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0193,2023-04-06,2024-01-20,Basic,20,289,54,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0194,2023-08-21,2024-01-28,Pro,50,160,61,1,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0195,2023-06-29,2024-01-08,Basic,20,193,35,0,20,0,Regular User,2023-06,0,1,Low Engagement Users
+U0196,2023-04-23,2024-02-10,Pro,50,293,44,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0197,2023-11-14,2024-02-08,Basic,20,86,36,0,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0198,2023-02-21,2024-01-01,Pro,50,314,71,1,50,0,Power User,2023-02,2,1,High Usage Upsell Candidates
+U0199,2023-09-25,2024-01-03,Pro,50,100,39,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0200,2023-10-22,2024-01-13,Basic,20,83,97,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0201,2023-04-23,2024-01-28,Basic,20,280,89,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0202,2023-04-11,2024-02-26,Pro,50,321,78,1,50,0,Power User,2023-04,2,1,High Usage Upsell Candidates
+U0203,2023-04-23,2024-02-29,Enterprise,100,312,40,0,100,0,Regular User,2023-04,1,1,Enterprise High-Engagement Users
+U0204,2023-03-22,2024-02-18,Basic,20,333,45,0,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0205,2023-07-06,2024-01-25,Basic,20,203,11,0,20,0,Regular User,2023-07,0,-1,Low Engagement Users
+U0206,2023-04-23,2024-02-25,Enterprise,100,308,87,1,100,0,Power User,2023-04,1,1,Enterprise High-Engagement Users
+U0207,2023-01-02,2024-02-02,Pro,50,396,78,1,50,0,Power User,2023-01,2,-1,High Usage Upsell Candidates
+U0208,2023-05-10,2024-02-07,Basic,20,273,13,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0209,2023-08-08,2024-02-22,Enterprise,100,198,46,0,100,0,Regular User,2023-08,1,1,Enterprise High-Engagement Users
+U0210,2023-02-23,2024-01-06,Basic,20,317,58,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0211,2023-12-09,2024-02-27,Pro,50,80,24,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0212,2023-08-12,2024-02-13,Basic,20,185,94,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0213,2023-08-13,2024-02-14,Basic,20,185,86,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0214,2023-05-06,2024-02-01,Basic,20,271,35,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0215,2023-05-10,2024-02-14,Pro,50,280,83,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0216,2023-02-22,2024-02-16,Basic,20,359,72,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0217,2023-06-21,2024-01-21,Basic,20,214,97,1,20,1,High Usage – Upsell Target,2023-06,0,1,Low Engagement Users
+U0218,2023-08-06,2024-01-16,Basic,20,163,37,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0219,2023-06-09,2024-02-23,Basic,20,259,95,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0220,2023-07-17,2024-01-21,Enterprise,100,188,80,1,100,0,Power User,2023-07,1,1,Enterprise High-Engagement Users
+U0221,2023-09-04,2024-01-11,Basic,20,129,35,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0222,2023-11-20,2024-02-29,Pro,50,101,86,1,50,0,Power User,2023-11,0,1,Low Engagement Users
+U0223,2023-07-22,2024-02-06,Pro,50,199,88,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0224,2023-07-03,2024-02-05,Basic,20,217,87,1,20,1,High Usage – Upsell Target,2023-07,0,1,Low Engagement Users
+U0225,2023-05-03,2024-02-04,Basic,20,277,63,1,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0226,2023-09-12,2024-01-19,Basic,20,129,69,1,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0227,2023-10-21,2024-01-20,Basic,20,91,80,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0228,2023-10-07,2024-02-26,Basic,20,142,33,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0229,2023-11-21,2024-01-18,Basic,20,58,90,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0230,2023-04-08,2024-02-16,Pro,50,314,33,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0231,2023-07-17,2024-02-10,Basic,20,208,35,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0232,2023-08-28,2024-02-18,Basic,20,174,10,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0233,2023-05-24,2024-01-14,Pro,50,235,84,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0234,2023-04-07,2024-01-15,Basic,20,283,76,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0235,2023-07-20,2024-01-31,Pro,50,195,85,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0236,2023-05-04,2024-01-01,Pro,50,242,83,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0237,2023-07-06,2024-02-22,Basic,20,231,42,0,20,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0238,2023-11-22,2024-02-23,Pro,50,93,63,1,50,0,Regular User,2023-11,0,1,Low Engagement Users
+U0239,2023-12-15,2024-02-23,Basic,20,70,88,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0240,2023-09-16,2024-01-03,Basic,20,109,55,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0241,2023-05-28,2024-01-16,Basic,20,233,97,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0242,2023-09-09,2024-01-23,Basic,20,136,12,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0243,2023-12-12,2024-02-26,Pro,50,76,80,1,50,0,Power User,2023-12,0,1,Low Engagement Users
+U0244,2023-05-27,2024-01-11,Basic,20,229,53,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0245,2023-05-28,2024-01-12,Basic,20,229,18,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0246,2023-12-18,2024-01-10,Basic,20,23,86,1,20,1,High Usage – Upsell Target,2023-12,0,-1,Low Engagement Users
+U0247,2023-07-18,2024-02-01,Pro,50,198,83,1,50,0,Power User,2023-07,0,1,Low Engagement Users
+U0248,2023-11-04,2024-01-16,Basic,20,73,58,0,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0249,2023-05-08,2024-01-08,Pro,50,245,98,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0250,2023-02-08,2024-02-07,Basic,20,364,50,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0251,2023-12-04,2024-01-12,Pro,50,39,21,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0252,2023-12-26,2024-01-24,Enterprise,100,29,64,1,100,0,Low Engagement,2023-12,1,1,Enterprise High-Engagement Users
+U0253,2023-05-09,2024-01-28,Pro,50,264,20,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0254,2023-09-24,2024-02-22,Pro,50,151,88,1,50,0,Power User,2023-09,0,1,Low Engagement Users
+U0255,2023-05-31,2024-01-08,Basic,20,222,80,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0256,2023-10-25,2024-02-27,Pro,50,125,58,0,50,0,Regular User,2023-10,0,1,Low Engagement Users
+U0257,2023-04-09,2024-01-28,Basic,20,294,70,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0258,2023-09-20,2024-02-05,Basic,20,138,12,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0259,2023-09-09,2024-01-26,Basic,20,139,80,1,20,1,High Usage – Upsell Target,2023-09,0,1,Low Engagement Users
+U0260,2023-05-24,2024-01-08,Pro,50,229,91,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0261,2023-12-12,2024-02-27,Basic,20,77,11,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0262,2023-04-22,2024-02-29,Pro,50,313,17,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0263,2023-03-01,2024-02-19,Pro,50,355,31,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0264,2023-01-02,2024-01-28,Pro,50,391,31,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0265,2023-10-31,2024-01-28,Pro,50,89,83,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0266,2023-09-11,2024-02-06,Pro,50,148,67,1,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0267,2023-05-20,2024-02-10,Enterprise,100,266,83,1,100,0,Power User,2023-05,1,1,Enterprise High-Engagement Users
+U0268,2023-02-06,2024-02-05,Pro,50,364,49,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0269,2023-06-09,2024-01-27,Pro,50,232,54,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0270,2023-01-09,2024-02-23,Enterprise,100,410,44,0,100,0,Regular User,2023-01,1,-1,Enterprise High-Engagement Users
+U0271,2023-08-21,2024-01-17,Enterprise,100,149,15,0,100,0,Regular User,2023-08,1,1,Enterprise High-Engagement Users
+U0272,2023-04-09,2024-01-09,Basic,20,275,65,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0273,2023-05-27,2024-02-02,Basic,20,251,94,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0274,2023-10-31,2024-02-22,Basic,20,114,82,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0275,2023-07-27,2024-01-20,Basic,20,177,17,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0276,2023-05-11,2024-01-13,Pro,50,247,79,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0277,2023-06-01,2024-01-28,Pro,50,241,48,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0278,2023-02-23,2024-02-17,Pro,50,359,15,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0279,2023-04-30,2024-01-29,Basic,20,274,41,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0280,2023-06-10,2024-01-13,Pro,50,217,44,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0281,2023-04-26,2024-02-15,Pro,50,295,70,1,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0282,2023-03-16,2024-02-04,Pro,50,325,90,1,50,0,Power User,2023-03,2,1,High Usage Upsell Candidates
+U0283,2023-04-23,2024-01-06,Enterprise,100,258,42,0,100,0,Regular User,2023-04,1,1,Enterprise High-Engagement Users
+U0284,2023-04-14,2024-01-18,Pro,50,279,50,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0285,2023-12-06,2024-02-20,Basic,20,76,95,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0286,2023-09-11,2024-01-05,Pro,50,116,23,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0287,2023-08-15,2024-02-16,Basic,20,185,99,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0288,2023-04-22,2024-01-25,Basic,20,278,98,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0289,2023-04-09,2024-01-02,Pro,50,268,75,1,50,0,Power User,2023-04,2,1,High Usage Upsell Candidates
+U0290,2023-06-02,2024-01-10,Basic,20,222,48,0,20,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0291,2023-12-15,2024-02-25,Pro,50,72,68,1,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0292,2023-12-04,2024-01-30,Basic,20,57,12,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0293,2023-07-13,2024-02-19,Pro,50,221,42,0,50,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0294,2023-11-06,2024-02-28,Basic,20,114,12,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0295,2023-06-12,2024-02-14,Enterprise,100,247,58,0,100,0,Regular User,2023-06,1,1,Enterprise High-Engagement Users
+U0296,2023-07-27,2024-01-05,Pro,50,162,26,0,50,0,Regular User,2023-07,0,1,Low Engagement Users
+U0297,2023-06-18,2024-02-24,Basic,20,251,49,0,20,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0298,2023-06-10,2024-02-25,Pro,50,260,73,1,50,0,Power User,2023-06,2,1,High Usage Upsell Candidates
+U0299,2023-03-09,2024-02-02,Enterprise,100,330,25,0,100,0,Regular User,2023-03,1,1,Enterprise High-Engagement Users
+U0300,2023-10-16,2024-02-23,Basic,20,130,87,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0301,2023-10-04,2024-01-01,Basic,20,89,47,0,20,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0302,2023-10-31,2024-01-18,Basic,20,79,19,0,20,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0303,2023-05-15,2024-02-01,Basic,20,262,55,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0304,2023-07-14,2024-02-16,Pro,50,217,27,0,50,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0305,2023-05-08,2024-02-18,Pro,50,286,71,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0306,2023-02-02,2024-01-11,Basic,20,343,43,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0307,2023-06-25,2024-01-21,Basic,20,210,24,0,20,0,Regular User,2023-06,0,1,Low Engagement Users
+U0308,2023-01-22,2024-01-26,Pro,50,369,38,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0309,2023-08-26,2024-01-25,Basic,20,152,50,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0310,2023-06-07,2024-01-22,Basic,20,229,83,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0311,2023-02-07,2024-02-28,Enterprise,100,386,91,1,100,0,Power User,2023-02,1,-1,Enterprise High-Engagement Users
+U0312,2023-08-18,2024-01-27,Pro,50,162,73,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0313,2023-12-31,2024-02-18,Pro,50,49,70,1,50,0,Low Engagement,2023-12,0,-1,Low Engagement Users
+U0314,2023-02-20,2024-01-13,Pro,50,327,67,1,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0315,2023-09-21,2024-02-02,Basic,20,134,52,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0316,2023-10-10,2024-02-03,Pro,50,116,49,0,50,0,Regular User,2023-10,0,1,Low Engagement Users
+U0317,2023-01-27,2024-02-10,Basic,20,379,87,1,20,1,High Usage – Upsell Target,2023-01,2,1,High Usage Upsell Candidates
+U0318,2023-08-14,2024-02-04,Basic,20,174,20,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0319,2023-10-04,2024-01-01,Basic,20,89,96,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0320,2023-10-13,2024-01-21,Basic,20,100,95,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0321,2023-04-07,2024-02-17,Pro,50,316,29,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0322,2023-10-11,2024-02-24,Basic,20,136,80,1,20,1,High Usage – Upsell Target,2023-10,0,1,Low Engagement Users
+U0323,2023-11-13,2024-01-06,Basic,20,54,86,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0324,2023-10-31,2024-01-28,Basic,20,89,27,0,20,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0325,2023-05-27,2024-01-17,Basic,20,235,46,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0326,2023-01-04,2024-01-05,Pro,50,366,47,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0327,2023-02-04,2024-01-31,Basic,20,361,71,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0328,2023-07-11,2024-01-05,Pro,50,178,31,0,50,0,Regular User,2023-07,0,1,Low Engagement Users
+U0329,2023-02-18,2024-02-07,Basic,20,354,82,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0330,2023-01-17,2024-01-03,Pro,50,351,68,1,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0331,2023-06-21,2024-02-22,Pro,50,246,58,0,50,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0332,2023-08-08,2024-01-23,Basic,20,168,41,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0333,2023-06-07,2024-02-06,Pro,50,244,81,1,50,0,Power User,2023-06,2,1,High Usage Upsell Candidates
+U0334,2023-02-15,2024-02-22,Basic,20,372,75,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0335,2023-01-06,2024-02-06,Basic,20,396,60,0,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0336,2023-04-09,2024-01-10,Enterprise,100,276,55,0,100,0,Regular User,2023-04,1,1,Enterprise High-Engagement Users
+U0337,2023-08-21,2024-01-10,Basic,20,142,42,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0338,2023-02-06,2024-01-19,Basic,20,347,86,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0339,2023-10-07,2024-01-17,Pro,50,102,92,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0340,2023-12-15,2024-01-21,Basic,20,37,42,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0341,2023-10-29,2024-01-14,Pro,50,77,31,0,50,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0342,2023-06-30,2024-01-09,Basic,20,193,92,1,20,1,High Usage – Upsell Target,2023-06,0,1,Low Engagement Users
+U0343,2023-04-05,2024-02-15,Enterprise,100,316,88,1,100,0,Power User,2023-04,1,1,Enterprise High-Engagement Users
+U0344,2023-04-09,2024-01-01,Pro,50,267,14,0,50,0,Regular User,2023-04,2,-1,High Usage Upsell Candidates
+U0345,2023-07-07,2024-02-20,Pro,50,228,22,0,50,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0346,2023-04-26,2024-02-14,Enterprise,100,294,55,0,100,0,Regular User,2023-04,1,1,Enterprise High-Engagement Users
+U0347,2023-07-10,2024-01-13,Basic,20,187,31,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0348,2023-09-10,2024-01-04,Enterprise,100,116,46,0,100,0,Regular User,2023-09,1,1,Enterprise High-Engagement Users
+U0349,2023-06-10,2024-01-01,Basic,20,205,59,0,20,0,Regular User,2023-06,0,1,Low Engagement Users
+U0350,2023-09-13,2024-02-18,Basic,20,158,62,1,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0351,2023-11-19,2024-02-09,Basic,20,82,71,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0352,2023-05-08,2024-02-01,Basic,20,269,94,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0353,2023-01-18,2024-02-03,Basic,20,381,66,1,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0354,2023-10-08,2024-01-28,Pro,50,112,93,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0355,2023-08-11,2024-01-31,Pro,50,173,58,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0356,2023-02-23,2024-01-08,Enterprise,100,319,14,0,100,0,Regular User,2023-02,1,1,Enterprise High-Engagement Users
+U0357,2023-02-27,2024-02-08,Basic,20,346,56,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0358,2023-11-19,2024-01-26,Pro,50,68,35,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0359,2023-12-26,2024-02-27,Basic,20,63,16,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0360,2023-06-23,2024-02-03,Basic,20,225,90,1,20,1,High Usage – Upsell Target,2023-06,2,1,High Usage Upsell Candidates
+U0361,2023-10-07,2024-02-23,Basic,20,139,36,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0362,2023-04-24,2024-02-23,Basic,20,305,81,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0363,2023-10-15,2024-01-03,Pro,50,80,43,0,50,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0364,2023-12-08,2024-02-28,Pro,50,82,99,1,50,0,Power User,2023-12,0,1,Low Engagement Users
+U0365,2023-05-31,2024-02-19,Basic,20,264,13,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0366,2023-05-07,2024-01-12,Basic,20,250,53,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0367,2023-06-04,2024-01-01,Basic,20,211,79,1,20,1,High Usage – Upsell Target,2023-06,0,1,Low Engagement Users
+U0368,2023-09-30,2024-02-23,Basic,20,146,26,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0369,2023-04-14,2024-02-13,Enterprise,100,305,93,1,100,0,Power User,2023-04,1,1,Enterprise High-Engagement Users
+U0370,2023-10-26,2024-01-05,Basic,20,71,50,0,20,0,Low Engagement,2023-10,0,1,Low Engagement Users
+U0371,2023-09-03,2024-01-30,Basic,20,149,62,1,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0372,2023-06-25,2024-01-30,Basic,20,219,39,0,20,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0373,2023-02-08,2024-02-28,Pro,50,385,52,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0374,2023-06-19,2024-02-26,Enterprise,100,252,35,0,100,0,Regular User,2023-06,1,1,Enterprise High-Engagement Users
+U0375,2023-09-04,2024-01-17,Pro,50,135,43,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0376,2023-01-26,2024-02-17,Pro,50,387,29,0,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0377,2023-12-21,2024-02-16,Basic,20,57,97,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0378,2023-11-02,2024-01-23,Basic,20,82,62,1,20,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0379,2023-01-13,2024-01-15,Enterprise,100,367,22,0,100,0,Regular User,2023-01,1,1,Enterprise High-Engagement Users
+U0380,2023-11-12,2024-02-06,Pro,50,86,31,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0381,2023-11-09,2024-01-21,Pro,50,73,96,1,50,0,Power User,2023-11,0,1,Low Engagement Users
+U0382,2023-02-05,2024-01-14,Pro,50,343,63,1,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0383,2023-06-22,2024-01-02,Pro,50,194,77,1,50,0,Power User,2023-06,0,1,Low Engagement Users
+U0384,2023-01-20,2024-01-11,Pro,50,356,91,1,50,0,Power User,2023-01,2,-1,High Usage Upsell Candidates
+U0385,2023-11-17,2024-02-20,Enterprise,100,95,63,1,100,0,Regular User,2023-11,1,1,Enterprise High-Engagement Users
+U0386,2023-09-21,2024-02-08,Enterprise,100,140,88,1,100,0,Power User,2023-09,1,1,Enterprise High-Engagement Users
+U0387,2023-05-22,2024-02-07,Pro,50,261,85,1,50,0,Power User,2023-05,2,1,High Usage Upsell Candidates
+U0388,2023-05-23,2024-02-29,Pro,50,282,28,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0389,2023-04-02,2024-02-03,Basic,20,307,19,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0390,2023-12-20,2024-02-07,Pro,50,49,19,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0391,2023-11-18,2024-02-19,Basic,20,93,15,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0392,2023-10-15,2024-02-03,Pro,50,111,74,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0393,2023-08-03,2024-01-18,Enterprise,100,168,14,0,100,0,Regular User,2023-08,1,1,Enterprise High-Engagement Users
+U0394,2023-12-08,2024-01-30,Pro,50,53,24,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0395,2023-02-20,2024-01-15,Basic,20,329,59,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0396,2023-06-02,2024-01-27,Basic,20,239,50,0,20,0,Regular User,2023-06,2,1,High Usage Upsell Candidates
+U0397,2023-07-05,2024-02-20,Basic,20,230,39,0,20,0,Regular User,2023-07,2,1,High Usage Upsell Candidates
+U0398,2023-03-04,2024-02-03,Pro,50,336,31,0,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0399,2023-07-09,2024-02-21,Basic,20,227,74,1,20,1,High Usage – Upsell Target,2023-07,2,1,High Usage Upsell Candidates
+U0400,2023-05-05,2024-02-26,Basic,20,297,67,1,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0401,2023-05-30,2024-02-07,Basic,20,253,35,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0402,2023-11-10,2024-02-02,Pro,50,84,83,1,50,0,Power User,2023-11,0,1,Low Engagement Users
+U0403,2023-02-27,2024-01-24,Pro,50,331,19,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0404,2023-12-08,2024-01-15,Basic,20,38,74,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0405,2023-11-01,2024-02-29,Basic,20,120,24,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0406,2023-06-29,2024-01-30,Basic,20,215,63,1,20,0,Regular User,2023-06,0,1,Low Engagement Users
+U0407,2023-06-19,2024-02-24,Pro,50,250,81,1,50,0,Power User,2023-06,2,1,High Usage Upsell Candidates
+U0408,2023-11-22,2024-02-11,Pro,50,81,52,0,50,0,Low Engagement,2023-11,0,1,Low Engagement Users
+U0409,2023-09-28,2024-02-20,Basic,20,145,81,1,20,1,High Usage – Upsell Target,2023-09,0,1,Low Engagement Users
+U0410,2023-02-23,2024-01-17,Pro,50,328,19,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0411,2023-04-11,2024-01-05,Basic,20,269,21,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0412,2023-09-21,2024-01-29,Pro,50,130,46,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0413,2023-02-22,2024-01-04,Basic,20,316,25,0,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0414,2023-03-01,2024-01-10,Basic,20,315,53,0,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0415,2023-04-18,2024-02-25,Basic,20,313,67,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0416,2023-01-05,2024-01-17,Pro,50,377,66,1,50,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0417,2023-04-13,2024-01-10,Pro,50,272,87,1,50,0,Power User,2023-04,2,1,High Usage Upsell Candidates
+U0418,2023-07-15,2024-01-17,Basic,20,186,93,1,20,1,High Usage – Upsell Target,2023-07,0,1,Low Engagement Users
+U0419,2023-09-19,2024-02-29,Pro,50,163,72,1,50,0,Power User,2023-09,0,1,Low Engagement Users
+U0420,2023-12-31,2024-01-20,Pro,50,20,98,1,50,0,Power User,2023-12,0,-1,Low Engagement Users
+U0421,2023-12-16,2024-01-24,Basic,20,39,12,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0422,2023-02-16,2024-01-05,Basic,20,323,97,1,20,1,High Usage – Upsell Target,2023-02,2,1,High Usage Upsell Candidates
+U0423,2023-12-21,2024-02-03,Pro,50,44,23,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0424,2023-11-07,2024-01-06,Basic,20,60,80,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0425,2023-11-04,2024-02-22,Basic,20,110,75,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0426,2023-05-24,2024-01-02,Enterprise,100,223,47,0,100,0,Regular User,2023-05,1,1,Enterprise High-Engagement Users
+U0427,2023-09-26,2024-01-13,Basic,20,109,95,1,20,1,High Usage – Upsell Target,2023-09,0,1,Low Engagement Users
+U0428,2023-05-04,2024-02-12,Basic,20,284,79,1,20,1,High Usage – Upsell Target,2023-05,2,1,High Usage Upsell Candidates
+U0429,2023-04-16,2024-02-12,Basic,20,302,68,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0430,2023-06-07,2024-02-17,Enterprise,100,255,84,1,100,0,Power User,2023-06,1,1,Enterprise High-Engagement Users
+U0431,2023-05-27,2024-01-11,Basic,20,229,28,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0432,2023-05-25,2024-02-20,Basic,20,271,15,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0433,2023-04-30,2024-02-16,Basic,20,292,61,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0434,2023-11-15,2024-02-26,Basic,20,103,87,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0435,2023-10-02,2024-01-23,Basic,20,113,32,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0436,2023-04-02,2024-02-24,Basic,20,328,79,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0437,2023-02-27,2024-01-16,Pro,50,323,88,1,50,0,Power User,2023-02,2,1,High Usage Upsell Candidates
+U0438,2023-12-12,2024-01-31,Basic,20,50,92,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
+U0439,2023-08-17,2024-01-11,Basic,20,147,27,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0440,2023-04-27,2024-02-23,Basic,20,302,82,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0441,2023-11-14,2024-01-16,Basic,20,63,99,1,20,1,High Usage – Upsell Target,2023-11,0,1,Low Engagement Users
+U0442,2023-10-06,2024-01-08,Basic,20,94,26,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0443,2023-05-07,2024-01-04,Pro,50,242,42,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0444,2023-05-09,2024-02-09,Basic,20,276,34,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0445,2023-02-27,2024-01-04,Basic,20,311,65,1,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0446,2023-05-02,2024-02-25,Basic,20,299,22,0,20,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0447,2023-01-01,2024-01-25,Pro,50,389,11,0,50,0,Regular User,2023-01,2,-1,High Usage Upsell Candidates
+U0448,2023-08-27,2024-01-03,Pro,50,129,20,0,50,0,Regular User,2023-08,0,1,Low Engagement Users
+U0449,2023-10-17,2024-02-01,Pro,50,107,68,1,50,0,Regular User,2023-10,0,1,Low Engagement Users
+U0450,2023-04-06,2024-01-03,Basic,20,272,63,1,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0451,2023-05-06,2024-01-27,Enterprise,100,266,87,1,100,0,Power User,2023-05,1,1,Enterprise High-Engagement Users
+U0452,2023-04-28,2024-01-29,Basic,20,276,21,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0453,2023-02-17,2024-02-01,Basic,20,349,69,1,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0454,2023-03-30,2024-02-19,Basic,20,326,41,0,20,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0455,2023-08-25,2024-02-27,Basic,20,186,10,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0456,2023-09-29,2024-02-20,Enterprise,100,144,13,0,100,0,Regular User,2023-09,1,1,Enterprise High-Engagement Users
+U0457,2023-07-08,2024-01-19,Pro,50,195,20,0,50,0,Regular User,2023-07,0,-1,Low Engagement Users
+U0458,2023-07-11,2024-01-21,Basic,20,194,26,0,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0459,2023-03-10,2024-01-05,Pro,50,301,64,1,50,0,Regular User,2023-03,2,1,High Usage Upsell Candidates
+U0460,2023-10-05,2024-01-18,Enterprise,100,105,86,1,100,0,Power User,2023-10,1,1,Enterprise High-Engagement Users
+U0461,2023-12-15,2024-01-28,Pro,50,44,41,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0462,2023-09-04,2024-02-11,Pro,50,160,55,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0463,2023-03-17,2024-01-22,Enterprise,100,311,62,1,100,0,Regular User,2023-03,1,1,Enterprise High-Engagement Users
+U0464,2023-06-03,2024-01-21,Enterprise,100,232,26,0,100,0,Regular User,2023-06,1,1,Enterprise High-Engagement Users
+U0465,2023-05-24,2024-01-06,Pro,50,227,31,0,50,0,Regular User,2023-05,2,1,High Usage Upsell Candidates
+U0466,2023-03-27,2024-01-01,Basic,20,280,99,1,20,1,High Usage – Upsell Target,2023-03,2,1,High Usage Upsell Candidates
+U0467,2023-07-04,2024-01-05,Basic,20,185,89,1,20,1,High Usage – Upsell Target,2023-07,0,1,Low Engagement Users
+U0468,2023-10-12,2024-02-10,Pro,50,121,55,0,50,0,Regular User,2023-10,0,1,Low Engagement Users
+U0469,2023-08-08,2024-01-12,Basic,20,157,12,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0470,2023-03-10,2024-01-26,Pro,50,322,94,1,50,0,Power User,2023-03,2,1,High Usage Upsell Candidates
+U0471,2023-02-16,2024-02-15,Basic,20,364,65,1,20,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0472,2023-04-04,2024-02-03,Basic,20,305,77,1,20,1,High Usage – Upsell Target,2023-04,2,1,High Usage Upsell Candidates
+U0473,2023-08-26,2024-02-18,Basic,20,176,92,1,20,1,High Usage – Upsell Target,2023-08,0,1,Low Engagement Users
+U0474,2023-07-23,2024-01-14,Basic,20,175,64,1,20,0,Regular User,2023-07,0,1,Low Engagement Users
+U0475,2023-08-06,2024-01-26,Enterprise,100,173,54,0,100,0,Regular User,2023-08,1,1,Enterprise High-Engagement Users
+U0476,2023-12-07,2024-02-14,Pro,50,69,56,0,50,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0477,2023-02-08,2024-01-27,Pro,50,353,55,0,50,0,Regular User,2023-02,2,1,High Usage Upsell Candidates
+U0478,2023-04-10,2024-01-09,Pro,50,274,30,0,50,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0479,2023-10-16,2024-01-26,Basic,20,102,57,0,20,0,Regular User,2023-10,0,1,Low Engagement Users
+U0480,2023-09-11,2024-02-26,Basic,20,168,37,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0481,2023-08-10,2024-02-16,Pro,50,190,82,1,50,0,Power User,2023-08,0,1,Low Engagement Users
+U0482,2023-12-23,2024-02-26,Basic,20,65,36,0,20,0,Low Engagement,2023-12,0,1,Low Engagement Users
+U0483,2023-01-23,2024-01-22,Basic,20,364,62,1,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0484,2023-09-07,2024-02-16,Basic,20,162,61,1,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0485,2023-01-10,2024-02-25,Basic,20,411,67,1,20,0,Regular User,2023-01,2,-1,High Usage Upsell Candidates
+U0486,2023-09-03,2024-01-30,Enterprise,100,149,16,0,100,0,Regular User,2023-09,1,1,Enterprise High-Engagement Users
+U0487,2023-11-21,2024-02-12,Pro,50,83,16,0,50,0,Low Engagement,2023-11,0,-1,Low Engagement Users
+U0488,2023-04-10,2024-02-17,Basic,20,313,57,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0489,2023-10-17,2024-01-17,Pro,50,92,83,1,50,0,Power User,2023-10,0,1,Low Engagement Users
+U0490,2023-06-29,2024-01-26,Pro,50,211,92,1,50,0,Power User,2023-06,0,-1,Low Engagement Users
+U0491,2023-08-11,2024-02-05,Basic,20,178,31,0,20,0,Regular User,2023-08,0,1,Low Engagement Users
+U0492,2023-09-07,2024-01-01,Pro,50,116,28,0,50,0,Regular User,2023-09,0,1,Low Engagement Users
+U0493,2023-05-27,2024-01-08,Pro,50,226,95,1,50,0,Power User,2023-05,2,-1,High Usage Upsell Candidates
+U0494,2023-04-06,2024-02-18,Basic,20,318,19,0,20,0,Regular User,2023-04,2,1,High Usage Upsell Candidates
+U0495,2023-09-14,2024-02-04,Basic,20,143,50,0,20,0,Regular User,2023-09,0,1,Low Engagement Users
+U0496,2023-11-21,2024-02-21,Basic,20,92,25,0,20,0,Regular User,2023-11,0,1,Low Engagement Users
+U0497,2023-01-04,2024-01-15,Basic,20,376,21,0,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0498,2023-01-16,2024-02-16,Basic,20,396,70,1,20,0,Regular User,2023-01,2,1,High Usage Upsell Candidates
+U0499,2023-10-07,2024-02-25,Pro,50,141,34,0,50,0,Regular User,2023-10,0,1,Low Engagement Users
+U0500,2023-12-02,2024-01-22,Basic,20,51,92,1,20,1,High Usage – Upsell Target,2023-12,0,1,Low Engagement Users
